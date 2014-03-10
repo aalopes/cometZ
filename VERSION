@@ -1,0 +1,18 @@
+v0.2 - 15.02.2014
+
+* Added pause menu, where it's possible to continue, restart or exit the game
+* Added music and sound volume control to main and pause menu
+* Changed game over screen so one can only restart by pressing enter or exit
+the game by pressing escape
+* Decreased power-up spawning rate
+
+
+--------------------------------------------------------------------------------
+v0.1.1 - 09.02.2014
+
+* Fixed filename case bug (Thanks to Eric Bosne).
+
+v0.1 - 09.02.2014
+
+* First release version of CometZ. Not much to add here. See the TODO for things
+we would like to do in the future.

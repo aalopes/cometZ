@@ -1,0 +1,74 @@
+CometZ v0.2 (15.02.2014)
+
+Copyright 2014 Alexandre Lopes and Filipa Silva
+
+<https://sourceforge.net/projects/cometz>
+
+-------------------------------------------------------------------------------
+= Description =
+
+CometZ is a simple side scrolling space shooter whose objective is to destroy 
+enemies ships while avoiding that our ship's shield is reduced to 0.
+It features several kinds of enemy ships and health power ups to replenish
+shield.
+
+This software makes use of the PyGame Python library.
+
+-------------------------------------------------------------------------------
+= Running the game =
+
+If you have the source code version of CometZ, run
+    python cometz.py
+on the command prompt.
+
+If you have the windows compiled version just execute cometz.exe
+
+-------------------------------------------------------------------------------
+= How to play =
+
+Use the arrow keys to move around in the menu and the spacebar or return key to 
+select the desired menu item.
+
+During game the controls are the following:
+
+spacebar    - fire lasers
+up arrow    - move ship up
+down arrow  - move ship down
+left arrow  - move ship left
+right arrow - move ship right
+escape      - pause menu
+
+Try to destroy as many enemy ships as possible, while avoiding being hit by them.
+You can replenish your shield by picking up shield power-ups. Blue power-ups 
+regenerate 25% of your shield and red power-ps regenerate 100%.
+
+If you gameover you can simply restart the game by pressing the enter key.
+
+-------------------------------------------------------------------------------
+= Credits =
+
+Coding:        Alexandre Lopes <aalopes@ovi.com>, <http://aalopes.ath.cx>
+
+"stars.png":   Alexandre Lopes <aalopes@ovi.com>, <http://aalopes.ath.cx>
+
+Graphics:       Filipa Serra e Silva <serraesilva@gmail.com>
+
+Sound:         "explosion.wav" by Cyberkineticfilms and "laser.wav" 
+               by fons were obtained from Freesound <http://www.freesound.org/>
+                 
+Music:         "Reaching for the sun" by the users Deshiel and Bacon92 was 
+               obtained from Newgrounds <http://www.newgrounds.com>
+
+-------------------------------------------------------------------------------
+= License =
+
+All code is licensed under the GPLv3 license. 
+All graphics are licensed under the CC BY-NC-SA 3.0 license.
+Sounds were obtained from the Freesound website and are in the public domain.
+Music was obtained from the Newsgroup website and is licensed under the
+CC BY-NC-SA 3.0 license
+
+See the COPYING file for the license texts.
+
+This software is provided "as is", without any warranty.
+-------------------------------------------------------------------------------

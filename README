@@ -14,12 +14,14 @@ shield.
 
 This software makes use of the PyGame Python library.
 
+Source use Windows EOL at the moment, since Unix systems are a bit more
+tolerant than Windows.
 -------------------------------------------------------------------------------
 = Running the game =
 
 If you have the source code version of CometZ, run
     python cometz.py
-on the command prompt.
+on the command prompt. Note that you will need to have PyGame installed!
 
 If you have the windows compiled version just execute cometz.exe
 
